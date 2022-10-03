@@ -1,7 +1,11 @@
 ### 👋 Oii, eu sou Julio Huang!! 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huangnli&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huangnli&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/huangnli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huangnli&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangnli&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
 
 <!--
 **Huangnli/Huangnli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
